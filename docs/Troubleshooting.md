@@ -7,10 +7,11 @@ This page describes how to properly report bugs etc. as well as self help tips.
 ### Where to report problems
 
   * [Github Issues](https://github.com/stuntrally/stuntrally3/issues) (preferred, but needs github account)
-  * or [Discord](https://discord.gg/TywnXxAtR6), #general channel
   * or Matrix, info in [Readme](../Readme.md#️Feedback)
-  * lastly by contacting cryham directly, info [on website](https://cryham.org/about-me/#Contact)
-  
+  * lastly by contacting cryham directly, info [on his website](https://cryham.org/about-me/#Contact)
+
+Since the project is inactive ([status](status.md)), response may take long time or even not happen.
+
 ### What we will ask from you
 
 So how about saving your time as well as ours and providing the answers before we get a chance to ask them? You might also find the cause by yourself.

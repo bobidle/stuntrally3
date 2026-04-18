@@ -5,7 +5,6 @@
 ![Last commit date](https://flat.badgen.net/github/last-commit/stuntrally/stuntrally3)
 ![Commits count](https://flat.badgen.net/github/commits/stuntrally/stuntrally3)
 ![License](https://flat.badgen.net/github/license/stuntrally/stuntrally3)  
-[![Discord](https://img.shields.io/discord/1239125025395703858?label=Discord&logo=Discord&logoColor=white)](https://discord.gg/TywnXxAtR6)
 ![](https://img.shields.io/github/downloads/stuntrally/stuntrally3/total.svg)
 
 ## Links
@@ -21,14 +20,17 @@
 💜[Donations](https://cryham.org/donate/) - financial support, on [Ko-Fi](https://ko-fi.com/cryham), or [paypal](https://paypal.me/cryham)
 
 ## 🗨️Feedback
+
+Since the project is inactive ([status](docs/status.md)), response may take long time or even not happen.
+
 🗨️[Matrix](https://matrix.org/) - **chat** room: #stuntrally:matrix.org -  (e.g. with [element app](https://element.io/download), or other [clients](https://matrix.org/ecosystem/clients/)) - *(preferred)*  
-💬[Discord](https://discord.gg/TywnXxAtR6) - **chat**, community, quick help, etc - follow #rules - *(could be removed in future)*  
 
 🪲[New Issue](https://github.com/stuntrally/stuntrally3/issues/new/choose), on [github](https://github.com/stuntrally/stuntrally3/issues) - for bugs, issues, PRs, etc - needs github account  
 Before reporting bugs or issues, be sure to read [Help page](docs/help.md) (or [the old](https://forum.freegamedev.net/viewtopic.php?f=78&t=3814)) topic first.
 
-Not used:  
-🏛️[Forum](https://groups.f-hub.org/stunt-rally/) - Closed (shut down), was for SR 3.x tracks, content, etc. Topics are saved in [`docs/`](docs) dir  
+**___Not used:___**  
+💬[Discord](https://discord.gg/TywnXxAtR6) - Deleted. Due to: not being [FOSS](https://drewdevault.com/2022/03/29/free-software-free-infrastructure.html), annoying commercials, and spam.  
+🏛️[Forum](https://groups.f-hub.org/stunt-rally/) - Closed (shut down). It was for SR 3.x tracks, content, etc. Main topics are saved in [`docs/`](docs) dir  
 📜[Old Forum](https://forum.freegamedev.net/viewforum.php?f=77) - Old Archive, with over 1000 posts, from SR 2.x  
 🪧[Reddit](https://www.reddit.com/r/stuntrally/) - not used  
 
@@ -129,7 +131,7 @@ Sources have emojis, [this file](/src/emojis.txt) lists all, for quick component
 
     Stunt Rally 3 - 3D racing game, with Sci-Fi elements and own Track Editor
                     based on Ogre-Next rendering and VDrift simulation
-    Copyright (C) 2010-2025  Crystal Hammer and contributors
+    Copyright (C) 2010-2026  Crystal Hammer and contributors
 
 
     This program is free software: you can redistribute it and/or modify

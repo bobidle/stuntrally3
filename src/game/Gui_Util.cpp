@@ -417,7 +417,6 @@ void CGui::btnWikiInput(WP)
 
 void CGui::btnOpenChat(WP)
 {
-	Url("https://discord.gg/TywnXxAtR6");
 }
 void CGui::btnSources(WP)
 {
